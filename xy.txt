@@ -8,3 +8,8 @@ main()
 {
 printf("welcome to git");
 }
+#include<stdio.h>
+int main()
+{
+printf("wellcome to my world");
+}
